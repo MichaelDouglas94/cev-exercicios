@@ -1,0 +1,15 @@
+@charset "UTF-8";
+/* Regra @charset caso haja problemas com centuação */
+
+body {
+    background-color: lightgoldenrodyellow;
+    color: chocolate;
+    font-size: 12pt;
+    font-family: Arial;
+}
+
+h1, a {
+    color: brown;
+    font-size:x-large; 
+    text-decoration:none;
+}
