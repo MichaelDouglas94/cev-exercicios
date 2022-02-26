@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+
+body {
+    background-image:-moz-linear-gradient(10deg,#3A7CA5,#2F6690);
+    background-attachment: fixed; 
+    text-align: justify;
+}
+
+
+main {
+    background-color: white;
+    width: 600px;
+    padding: 10px;
+    box-shadow: 5px 5px 13px #0A122A ;
+    margin: auto;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+    color:#16425B;
+    text-shadow: 1px 1px 1px #52528C;
+}
+
+h2 {
+    color:#16425B;
+}
+
+p {
+    color:#1B1725;
+}
